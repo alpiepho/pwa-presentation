@@ -9,8 +9,8 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `Gatsby Starter Slides Theme`,
-    author: `My Name`,
+    title: `Progressive Web Apps`,
+    author: `Al Piepho`,
     description: `My site description...`,
   },
 }
