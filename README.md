@@ -3,8 +3,9 @@ This is also hosted in GH-Pages [here](https://alpiepho.github.io/pwa-presentati
 
 ## TODO
 
-- support pwa
+- replace pwa icon?
 - start slides
+- final slide - how to install
 
 
 ## Introduction
