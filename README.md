@@ -1,6 +1,8 @@
+
+This is also hosted in GH-Pages [here](https://alpiepho.github.io/pwa-presentation/).
+
 ## TODO
 
-- change title
 - support pwa
 - start slides
 

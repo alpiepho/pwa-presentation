@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `pwa-presentation`,
   plugins: [
     {
       resolve: `gatsby-theme-blog`,
