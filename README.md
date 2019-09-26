@@ -7,6 +7,15 @@ This is also hosted in GH-Pages [here](https://alpiepho.github.io/pwa-presentati
 - start slides
 - final slide - how to install
 
+Title appendix a...
+Want to see something cool
+This is actually a PWA
+Image of light house
+Images of how to install
+Written steps
+
+
+
 
 ## Introduction
 
