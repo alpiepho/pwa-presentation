@@ -30,8 +30,9 @@ const Slides = ({ location, slides, siteTitle, socialLinks }) => (
                   {title}
                 </Styled.a>
               </Styled.h2>
-              <Styled.p>{node.excerpt}</Styled.p>
-            </div>
+              {/* <Styled.p>{node.excerpt}</Styled.p> */}
+              <Styled.p>{' '}</Styled.p>
+              </div>
           </Fragment>
         )
       })}
