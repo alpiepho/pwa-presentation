@@ -1,5 +1,5 @@
 
-This is also hosted in GH-Pages [here](https://alpiepho.github.io/pwa-presentation/).
+This is hosted in GH-Pages [here](https://alpiepho.github.io/pwa-presentation/).
 
 
 
