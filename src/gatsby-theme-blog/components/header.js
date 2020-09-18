@@ -117,7 +117,7 @@ export default ({ children, title, ...props }) => {
           <div style={{opacity:0.1}}>
             <Switch
               aria-label="Toggle dark mode"
-              //aria-checked={ (isDark ? "true" : "false") }
+              aria-checked={ (isDark ? "true" : "false") }
               css={css({
                 bg: `black`,
               })}
